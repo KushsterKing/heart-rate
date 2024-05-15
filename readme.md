@@ -1,6 +1,6 @@
 # Heart Rate
 
-**Aggregate min and max hear rate for every 15 minutes.**
+**Aggregate min and max heart rate for every 15 minutes.**
 
 ## Node Version
 
